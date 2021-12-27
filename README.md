@@ -5,7 +5,7 @@ Os dados são públicos e estão disponíveis no site do CEMADEN - Centro Nacion
 
 
 
-<h1> Sobre o Dashboard: </h1>
+<h2> Sobre o Dashboard: </h2>
 
 	- É possível filtrar a quantidade de chuva (precipitação) por cada bairro onde existe um pluviômetro.
 	- É possível filtrar a quantidade de chuva (precipitação) pelo código de identificação de cada estação pluviométrica.
@@ -13,7 +13,7 @@ Os dados são públicos e estão disponíveis no site do CEMADEN - Centro Nacion
 	- É possível visualizar os dias e os horários em que houve mais chuva.
 	
 
-<h1> Insights retirados do estudo </h1>
+<h2> Insights retirados do estudo </h2>
 
 	- Os 3 últimos meses foram os que mais choveram, sendo outubro o mês com mais chuva. (Vale a pena ver se este comportamento de chuva se repete ao longo dos anos porque isto pode interferir em alguns setores da economia, por exemplo a Construção Civil).
 	- As últimas horas do dia são as que mais choveram. O pico de chuvas vão das 18h as 00h. Talvez isto implique no trânsito quando as pessoas saem dos seus trabalho.
