@@ -7,10 +7,14 @@ Os dados são públicos e estão disponíveis no site do CEMADEN - Centro Nacion
 
 <h2> Sobre o Dashboard: </h2>
 
-	- É possível filtrar a quantidade de chuva (precipitação) por cada bairro onde existe um pluviômetro.
-	- É possível filtrar a quantidade de chuva (precipitação) pelo código de identificação de cada estação pluviométrica.
-	- É possível filtrar a quantidade de chuva (precipitação) em cada mês.
-	- É possível visualizar os dias e os horários em que houve mais chuva.
+<div align="center" >
+<img src="dashboard.GIF"> 
+</div>
+
+- É possível filtrar a quantidade de chuva (precipitação) por cada bairro onde existe um pluviômetro.
+- É possível filtrar a quantidade de chuva (precipitação) pelo código de identificação de cada estação pluviométrica.
+- É possível filtrar a quantidade de chuva (precipitação) em cada mês.
+- É possível visualizar os dias e os horários em que houve mais chuva.
 	
 
 <h2> Insights retirados do estudo </h2>
