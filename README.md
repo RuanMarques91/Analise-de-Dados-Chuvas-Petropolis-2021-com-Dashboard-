@@ -8,7 +8,7 @@ Os dados são públicos e estão disponíveis no site do CEMADEN - Centro Nacion
 <h2> Sobre o Dashboard: </h2>
 
 <div align="center" >
-<img src="dashboard.GIF"> 
+<img src="/dashboard.GIF"> 
 </div>
 
 - É possível filtrar a quantidade de chuva (precipitação) por cada bairro onde existe um pluviômetro.
@@ -19,10 +19,10 @@ Os dados são públicos e estão disponíveis no site do CEMADEN - Centro Nacion
 
 <h2> Insights retirados do estudo </h2>
 
-	- Os 3 últimos meses foram os que mais choveram, sendo outubro o mês com mais chuva. (Vale a pena ver se este comportamento de chuva se repete ao longo dos anos porque isto pode interferir em alguns setores da economia, por exemplo a Construção Civil).
-	- As últimas horas do dia são as que mais choveram. O pico de chuvas vão das 18h as 00h. Talvez isto implique no trânsito quando as pessoas saem dos seus trabalho.
-	- Petrópolis é uma cidade que fica na serra e os bairros com mais chuvas são aqueles que ficam próximos da entrada da cidade. Toda cidade que fica na serra costuma ter a chegada num ponto topográfico chamado de ponto de sela, onde as condições climáticas costumam ser mais hostis e isto se confirma com os dados.
-	- O bairro com mais chuva é o Bairro Independência.
+- Os 3 últimos meses foram os que mais choveram, sendo outubro o mês com mais chuva. (Vale a pena ver se este comportamento de chuva se repete ao longo dos anos porque isto pode interferir em alguns setores da economia, por exemplo a Construção Civil).
+- As últimas horas do dia são as que mais choveram. O pico de chuvas vão das 18h as 00h. Talvez isto implique no trânsito quando as pessoas saem dos seus trabalho.
+- Petrópolis é uma cidade que fica na serra e os bairros com mais chuvas são aqueles que ficam próximos da entrada da cidade. Toda cidade que fica na serra costuma ter a chegada num ponto topográfico chamado de ponto de sela, onde as condições climáticas costumam ser mais hostis e isto se confirma com os dados.
+- O bairro com mais chuva é o Bairro Independência.
 
 
 OBS: Os dados de Dezembro estão até o dia 22. Assim que os dados dos últimos dias do ano estiverem disponíveis, irei atualizar no repositório!!!
