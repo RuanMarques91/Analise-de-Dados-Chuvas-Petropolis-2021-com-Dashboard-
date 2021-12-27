@@ -8,7 +8,7 @@ Os dados são públicos e estão disponíveis no site do CEMADEN - Centro Nacion
 <h2> Sobre o Dashboard: </h2>
 
 <div align="center" >
-<img src="../AnalisedeDadosChuvasPetropolis/dashboard.jpg"> 
+<img src="dashboard.jpg"> 
 </div>
 
 - É possível filtrar a quantidade de chuva (precipitação) por cada bairro onde existe um pluviômetro.
